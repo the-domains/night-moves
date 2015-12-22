@@ -1,0 +1,28 @@
+name: Night Moves
+favicon: null
+layout_spectrum: 0.4566516652703285
+typography_spectrum: 0.532808976713568
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09860916086472571
+  lightness: 0.9083084771409631
+  saturation: 0.2961343596689403
+  rhythmicContrast: 0.38776903762482107
+purpose: []
